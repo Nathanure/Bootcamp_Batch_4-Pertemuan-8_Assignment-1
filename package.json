@@ -1,0 +1,15 @@
+{
+  "name": "package-wgs-bootcamp-pertemuan-8",
+  "version": "1.0.0",
+  "description": "Finding a value in object",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nathanure",
+  "license": "ISC",
+  "dependencies": {
+    "validator": "^13.7.0",
+    "yargs": "^17.6.2"
+  }
+}
